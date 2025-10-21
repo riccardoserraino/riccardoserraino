@@ -1,16 +1,15 @@
 ## Hi there 👋
+You are now in the personal github of **Riccardo Serraino**
 
-<!--
-**riccardoserraino/riccardoserraino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# I left hereafter something simple about me:
+⚙️ Passionate about engineering solutions and innovation
+🏡 Born in Bologna
+📍 Based in Milan
+🎓 BSc in Automation Engineering @ Alma Mater Studiorum - Università di Bologna
+📚 MSc Student in Automation & Control @ Politecnico di Milano
 
-Here are some ideas to get you started:
+📧 *ricc.serrain@gmail.com*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 Social: 
+  - ig: riccardo.serraino
+  - in: riccardoserraino
