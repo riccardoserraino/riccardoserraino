@@ -1,7 +1,6 @@
-## Hi there 👋
-You are now in the personal github of **Riccardo Serraino**  
-  
-# I left hereafter something simple about me:   
+## I'm **Riccardo Serraino** 
+You are now in my personal github page!
+
 ⚙️ Passionate about engineering solutions and innovation  
 🏡 Born in Bologna  
 📍 Based in Milan  
