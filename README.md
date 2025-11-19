@@ -1,5 +1,5 @@
 ## Hi, I'm **Riccardo Serraino** 
-**Welcome in my personal github page!**  
+**Welcome on my personal github page!**  
 
 ⚙️ Passionate about engineering solutions and innovation in Robotics, Automation and Control  
 🏡 Born in Bologna  
