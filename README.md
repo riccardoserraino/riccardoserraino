@@ -8,6 +8,5 @@
 📚 MSc Student in Automation & Control @ Politecnico di Milano (IT)  
   
 📞📧  Contacts & Social:   
-  - *ricc.serrain@gmail.com*
-  - [ig: riccardo.serraino](https://www.instagram.com/riccardo.serraino/)
+  - *ricc.serrain@gmail.com*  
   - [in: riccardoserraino](https://www.linkedin.com/in/riccardoserraino/)
