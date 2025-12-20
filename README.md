@@ -5,6 +5,7 @@
 🏡 Born in Bologna  
 📍 Based in Milan  
 🎓 BSc in Automation Engineering @ Alma Mater Studiorum - Università di Bologna (IT)  
+🌏 1 year exchange in Shanghai (上海, 中国) @ Tongi University (同济大学) (CN)  
 📚 MSc Student in Automation & Control @ Politecnico di Milano (IT)  
   
 📞📧  Contacts & Social:   
