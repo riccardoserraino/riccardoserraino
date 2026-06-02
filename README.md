@@ -1,7 +1,7 @@
 ## Hi, I'm **Riccardo Serraino** 
 **Welcome on my personal github page!**  
 
-⚙️ Passionate about engineering solutions and innovation in Robotics, Control and Automation  
+⚙️ Passionate about engineering solutions and innovation in AI and Robotics.  
 🏡 Born in Bologna  
 📍 Based in Milan  
 🎓 BSc in Automation Engineering @ Alma Mater Studiorum - University of Bologna (IT)  
